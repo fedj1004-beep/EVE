@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "files": {
+        "engine.py": "https://raw.githubusercontent.com/ТВО_ИМЯ/eve/main/engine.py",
+        "brain.py": "https://raw.githubusercontent.com/ТВО_ИМЯ/eve/main/brain.py",
+        "commands.py": "https://raw.githubusercontent.com/ТВО_ИМЯ/eve/main/commands.py",
+        "gui.py": "https://raw.githubusercontent.com/ТВО_ИМЯ/eve/main/gui.py"
+    }
+}
